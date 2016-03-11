@@ -1,0 +1,39 @@
+{
+  "name": "rebound-stream",
+  "version": "1.0.0",
+  "description": "Streams a component and all previously unloaded defendants to a client on request.",
+  "main": "index.js",
+  "dependencies": {
+    "bignum": "^0.11.0",
+    "binary-search-tree": "^0.2.4",
+    "color": "^0.10.1",
+    "colors": "^1.1.2",
+    "decimal.js": "^5.0.0",
+    "express": "^4.13.3",
+    "murmurhash": "0.0.2",
+    "reboundjs": "^0.1.5",
+    "walk": "^2.3.9"
+  },
+  "devDependencies": {
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "test": "node tests/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reboundjs/rebound-stream.git"
+  },
+  "keywords": [
+    "rebound",
+    "reboundjs",
+    "express",
+    "expressjs"
+  ],
+  "author": "Adam Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reboundjs/rebound-stream/issues"
+  },
+  "homepage": "https://github.com/reboundjs/rebound-stream#readme"
+}

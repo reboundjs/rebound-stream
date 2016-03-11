@@ -1,0 +1,29 @@
+{
+  "name": "rebound-stream",
+  "description": "Streams a component and all previously unloaded defendants to a client on request.",
+  "main": "index.js",
+  "authors": [
+    "Adam Miller"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "rebound",
+    "reboundjs",
+    "express",
+    "expressjs"
+  ],
+  "homepage": "https://github.com/reboundjs/rebound-stream",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "reboundjs": "~0.1.5",
+    "underscore": "~1.8.3"
+  }
+}
